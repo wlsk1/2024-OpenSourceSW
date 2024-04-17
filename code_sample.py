@@ -3,3 +3,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> print('Hello, World!')
 Hello, World!
 >>> 
+>>> print('Branch sample1')
+Branch sample1
+>>> 
+>>> print('Branch sample2')
+Branch sample2
+>>> 
